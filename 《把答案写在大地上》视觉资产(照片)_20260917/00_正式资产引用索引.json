@@ -1,0 +1,89 @@
+{
+  "project": "把答案写在大地上",
+  "asset_stage": "static_visual_reference",
+  "revision": "2026-09-18-final-audit",
+  "asset_root": "D:/lzy/微电影/《把答案写在大地上》视觉资产(照片)_20260917",
+  "prompt_root": "D:/lzy/微电影/《把答案写在大地上》视觉资产_20260915",
+  "narrative_source": "D:/lzy/微电影/《把答案写在大地上》AI视频生成剧本.md",
+  "characters": {
+    "A01": "角色设定/CHAR_A01_林悦_v02.png",
+    "A02": "角色设定/CHAR_A02_陈老师_v02.png",
+    "A03": "角色设定/CHAR_A03_周建国_v02.png"
+  },
+  "props": {
+    "P03": "道具设定/PROP_P03_手机稳定器_v01.png",
+    "P06": "道具设定/PROP_P06_旧钥匙_v01.png"
+  },
+  "scene_masters": {
+    "S01_S05_classroom": "镜头关键帧/KF_01_v01.png",
+    "S02_corridor": "镜头关键帧/KF_08_v01.png",
+    "S03_alley": "镜头关键帧/KF_10_v02.png",
+    "S03_history_room": "镜头关键帧/KF_13_v02.png",
+    "S04_courtyard_empty": "镜头关键帧/KF_23_v02.png",
+    "S04_courtyard_with_cast": "镜头关键帧/KF_20_v02.png"
+  },
+  "official_keyframes": {
+    "KF01": "镜头关键帧/KF_01_v01.png",
+    "KF02": "镜头关键帧/KF_02_v01.png",
+    "KF03": "镜头关键帧/KF_03_v02.png",
+    "KF04": "镜头关键帧/KF_04_v02.png",
+    "KF05": "镜头关键帧/KF_05_v01.png",
+    "KF06": "镜头关键帧/KF_06_v02.png",
+    "KF07": "镜头关键帧/KF_07_v02.png",
+    "KF08": "镜头关键帧/KF_08_v01.png",
+    "KF09": "镜头关键帧/KF_09_v02.png",
+    "KF10": "镜头关键帧/KF_10_v02.png",
+    "KF11": "镜头关键帧/KF_11_v02.png",
+    "KF12": "镜头关键帧/KF_12_v02.png",
+    "KF13": "镜头关键帧/KF_13_v02.png",
+    "KF14": "镜头关键帧/KF_14_v01.png",
+    "KF15": "镜头关键帧/KF_15_v01.png",
+    "KF16": "镜头关键帧/KF_16_v01.png",
+    "KF17": "镜头关键帧/KF_17_v02.png",
+    "KF18": "镜头关键帧/KF_18_v02.png",
+    "KF19": "镜头关键帧/KF_19_v02.png",
+    "KF20": "镜头关键帧/KF_20_v02.png",
+    "KF21": "镜头关键帧/KF_21_v01.png",
+    "KF22": "镜头关键帧/KF_22_v02.png",
+    "KF23": "镜头关键帧/KF_23_v02.png",
+    "KF24": "镜头关键帧/KF_24_v02.png",
+    "KF25": "镜头关键帧/KF_25_v02.png",
+    "KF26": "镜头关键帧/KF_26_v02.png",
+    "KF27": "镜头关键帧/KF_27_v02.png",
+    "KF28": "镜头关键帧/KF_28_v02.png",
+    "KF29": "镜头关键帧/KF_29_v02.png",
+    "KF30": "镜头关键帧/KF_30_v01.png",
+    "KF31": "镜头关键帧/KF_31_v02.png",
+    "KF32": "镜头关键帧/KF_32_v02.png",
+    "KF33": "镜头关键帧/KF_33_v01.png",
+    "KF34": "镜头关键帧/KF_34_v01.png",
+    "KF35": "镜头关键帧/KF_35_v02.png",
+    "KF36": "镜头关键帧/KF_36_v01.png"
+  },
+  "prompt_sources": [
+    "01_角色视觉资产.md",
+    "02_关键帧Prompt_01-12.md",
+    "03_关键帧Prompt_13-24.md",
+    "04_关键帧Prompt_25-36.md",
+    "05_统一视觉规范与Negative_Prompt.md"
+  ],
+  "qa": {
+    "manifest": "00_生成交付清单.md",
+    "spatial_audit": "QA/01_场景逻辑母版与审核.md",
+    "revision_log": "QA/02_重制复核记录.md",
+    "final_audit_report": "QA/03_20260918终轮空间逻辑复审.md",
+    "final_edit_prompts": "QA/04_终轮重制Prompt记录.md",
+    "reference_boards": [
+      "QA/视觉锚点总览/REFERENCE_角色与道具.jpg",
+      "QA/视觉锚点总览/REFERENCE_场景空间.jpg"
+    ],
+    "contact_sheets": [
+      "QA/联系表_正式版/OFFICIAL_01-06.jpg",
+      "QA/联系表_正式版/OFFICIAL_07-12.jpg",
+      "QA/联系表_正式版/OFFICIAL_13-18.jpg",
+      "QA/联系表_正式版/OFFICIAL_19-24.jpg",
+      "QA/联系表_正式版/OFFICIAL_25-30.jpg",
+      "QA/联系表_正式版/OFFICIAL_31-36.jpg"
+    ]
+  }
+}

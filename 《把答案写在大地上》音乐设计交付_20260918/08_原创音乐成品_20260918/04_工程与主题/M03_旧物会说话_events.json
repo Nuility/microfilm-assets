@@ -1,0 +1,305 @@
+﻿{
+  "cue": {
+    "id": "M03",
+    "title": "旧物会说话",
+    "duration": 74.0,
+    "bpm": 56,
+    "key": "A minor → C major colour",
+    "shots": "13-19",
+    "timeline": "约01:52-03:06（以锁画版为准）",
+    "role": "承载旧物、记忆与口述历史；克制、温暖但不煽情。"
+  },
+  "sample_rate": 48000,
+  "render_gain": 2.373931100883313,
+  "event_count": 36,
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 14.0,
+      "note": 45,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 0.035,
+      "duration": 14.0,
+      "note": 52,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 0.07,
+      "duration": 14.0,
+      "note": 60,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 3,
+      "duration": 5.0,
+      "note": 57,
+      "velocity": 0.25,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 4,
+      "duration": 3.4,
+      "note": 81,
+      "velocity": 0.11,
+      "instrument": "glass",
+      "pan": 0.42
+    },
+    {
+      "start": 10,
+      "duration": 5.0,
+      "note": 59,
+      "velocity": 0.25,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 12.0,
+      "duration": 14.0,
+      "note": 48,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 12.035,
+      "duration": 14.0,
+      "note": 55,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 12.07,
+      "duration": 14.0,
+      "note": 64,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 17,
+      "duration": 5.0,
+      "note": 60,
+      "velocity": 0.25,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 18,
+      "duration": 9,
+      "note": 45,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.22
+    },
+    {
+      "start": 24.0,
+      "duration": 14.0,
+      "note": 43,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 24.035,
+      "duration": 14.0,
+      "note": 50,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 24.07,
+      "duration": 14.0,
+      "note": 59,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 25,
+      "duration": 5.0,
+      "note": 59,
+      "velocity": 0.25,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 29,
+      "duration": 8,
+      "note": 48,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.22
+    },
+    {
+      "start": 36.0,
+      "duration": 14.0,
+      "note": 45,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 36,
+      "duration": 5.0,
+      "note": 52,
+      "velocity": 0.21,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 36.035,
+      "duration": 14.0,
+      "note": 52,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 36.07,
+      "duration": 14.0,
+      "note": 60,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 40,
+      "duration": 3.4,
+      "note": 79,
+      "velocity": 0.11,
+      "instrument": "glass",
+      "pan": 0.42
+    },
+    {
+      "start": 42,
+      "duration": 10,
+      "note": 52,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.22
+    },
+    {
+      "start": 44,
+      "duration": 5.0,
+      "note": 55,
+      "velocity": 0.21,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 48.0,
+      "duration": 14.0,
+      "note": 48,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 48.035,
+      "duration": 14.0,
+      "note": 55,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 48.07,
+      "duration": 14.0,
+      "note": 64,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 52,
+      "duration": 5.0,
+      "note": 57,
+      "velocity": 0.21,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 55,
+      "duration": 3.4,
+      "note": 84,
+      "velocity": 0.11,
+      "instrument": "glass",
+      "pan": 0.42
+    },
+    {
+      "start": 56,
+      "duration": 9,
+      "note": 55,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.22
+    },
+    {
+      "start": 60.0,
+      "duration": 14.0,
+      "note": 43,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 60.035,
+      "duration": 14.0,
+      "note": 50,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 60.07,
+      "duration": 14.0,
+      "note": 59,
+      "velocity": 0.136,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 61,
+      "duration": 5.0,
+      "note": 60,
+      "velocity": 0.21,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 65,
+      "duration": 7,
+      "note": 52,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.22
+    },
+    {
+      "start": 67,
+      "duration": 5.0,
+      "note": 59,
+      "velocity": 0.21,
+      "instrument": "piano",
+      "pan": -0.25
+    },
+    {
+      "start": 68,
+      "duration": 3.4,
+      "note": 81,
+      "velocity": 0.11,
+      "instrument": "glass",
+      "pan": 0.42
+    }
+  ]
+}

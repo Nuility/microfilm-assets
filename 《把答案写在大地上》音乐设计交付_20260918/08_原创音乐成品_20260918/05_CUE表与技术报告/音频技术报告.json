@@ -1,0 +1,90 @@
+﻿{
+  "generated": "2026-09-18",
+  "sample_rate": 48000,
+  "reports": [
+    {
+      "cue": "M01",
+      "title": "一个问号",
+      "file": "01_主混音_WAV_48k24bit\\M01_一个问号_MASTER_v01.wav",
+      "duration_seconds": 40.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -17.283,
+      "sha256": "b3fcbcbc52b807d44badac160723407b42567c8d37afbf8f6a3f73c9a72025b7",
+      "stems": 4,
+      "event_count": 16
+    },
+    {
+      "cue": "M02",
+      "title": "走出去",
+      "file": "01_主混音_WAV_48k24bit\\M02_走出去_MASTER_v01.wav",
+      "duration_seconds": 56.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -15.463,
+      "sha256": "b03377391b3e94d712b1134b7244cac4c94866226478a2819b46473c1032243b",
+      "stems": 4,
+      "event_count": 171
+    },
+    {
+      "cue": "M03",
+      "title": "旧物会说话",
+      "file": "01_主混音_WAV_48k24bit\\M03_旧物会说话_MASTER_v01.wav",
+      "duration_seconds": 74.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -15.626,
+      "sha256": "f984167e8faea564724b259772156caf2a901f9805f84cf95cc7f7117fddea29",
+      "stems": 4,
+      "event_count": 36
+    },
+    {
+      "cue": "M04",
+      "title": "院子里的答案",
+      "file": "01_主混音_WAV_48k24bit\\M04_院子里的答案_MASTER_v01.wav",
+      "duration_seconds": 54.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -15.855,
+      "sha256": "91f135f4dc3d9b4a7e01379fba80cb2029b9cbfc11dc373776f9fe24313977bb",
+      "stems": 4,
+      "event_count": 32
+    },
+    {
+      "cue": "M05",
+      "title": "钥匙与答案",
+      "file": "01_主混音_WAV_48k24bit\\M05_钥匙与答案_MASTER_v01.wav",
+      "duration_seconds": 64.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -18.567,
+      "sha256": "241f94b30d4046b8ee99850987dbf68c940179629097b6d9aa413ba436c86d12",
+      "stems": 4,
+      "event_count": 59
+    },
+    {
+      "cue": "M06",
+      "title": "带回来",
+      "file": "01_主混音_WAV_48k24bit\\M06_带回来_MASTER_v01.wav",
+      "duration_seconds": 65.0,
+      "channels": 2,
+      "bit_depth": 24,
+      "sample_rate": 48000,
+      "peak_dbfs": -1.0,
+      "rms_dbfs": -16.511,
+      "sha256": "9fe7301811b19fd289b277ef527bd5059582ba07a1ffd061dd8a301f324bb3a0",
+      "stems": 4,
+      "event_count": 61
+    }
+  ]
+}

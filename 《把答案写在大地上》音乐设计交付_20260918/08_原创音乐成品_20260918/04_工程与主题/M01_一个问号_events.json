@@ -1,0 +1,145 @@
+﻿{
+  "cue": {
+    "id": "M01",
+    "title": "一个问号",
+    "duration": 40.0,
+    "bpm": 58,
+    "key": "D minor / open fifth",
+    "shots": "04-07",
+    "timeline": "约00:28-01:08（以锁画版为准）",
+    "role": "建立未知、孤独与问题意识；从环境声中渐显，在推门前留出空间。"
+  },
+  "sample_rate": 48000,
+  "render_gain": 1.9217817818632463,
+  "event_count": 16,
+  "events": [
+    {
+      "start": 4.2,
+      "duration": 4.4,
+      "note": 62,
+      "velocity": 0.32,
+      "instrument": "piano",
+      "pan": -0.18
+    },
+    {
+      "start": 8.8,
+      "duration": 4.4,
+      "note": 64,
+      "velocity": 0.35,
+      "instrument": "piano",
+      "pan": -0.18
+    },
+    {
+      "start": 13.5,
+      "duration": 4.4,
+      "note": 65,
+      "velocity": 0.38,
+      "instrument": "piano",
+      "pan": -0.18
+    },
+    {
+      "start": 18.6,
+      "duration": 4.4,
+      "note": 64,
+      "velocity": 0.41,
+      "instrument": "piano",
+      "pan": -0.18
+    },
+    {
+      "start": 19.0,
+      "duration": 7.8,
+      "note": 50,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 19.035,
+      "duration": 7.8,
+      "note": 57,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 19.07,
+      "duration": 7.8,
+      "note": 64,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 23.0,
+      "duration": 5.5,
+      "note": 50,
+      "velocity": 0.18,
+      "instrument": "cello",
+      "pan": 0.18
+    },
+    {
+      "start": 28.0,
+      "duration": 7.8,
+      "note": 53,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 28.035,
+      "duration": 7.8,
+      "note": 57,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 28.07,
+      "duration": 7.8,
+      "note": 62,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 29.0,
+      "duration": 5.5,
+      "note": 53,
+      "velocity": 0.18,
+      "instrument": "cello",
+      "pan": 0.18
+    },
+    {
+      "start": 34.0,
+      "duration": 5.5,
+      "note": 52,
+      "velocity": 0.18,
+      "instrument": "cello",
+      "pan": 0.18
+    },
+    {
+      "start": 34.0,
+      "duration": 7.8,
+      "note": 52,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 34.035,
+      "duration": 7.8,
+      "note": 57,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 34.07,
+      "duration": 7.8,
+      "note": 64,
+      "velocity": 0.144,
+      "instrument": "strings",
+      "pan": 0.64
+    }
+  ]
+}

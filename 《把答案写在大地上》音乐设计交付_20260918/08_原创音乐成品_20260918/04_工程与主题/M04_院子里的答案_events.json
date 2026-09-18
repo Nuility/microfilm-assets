@@ -1,0 +1,273 @@
+﻿{
+  "cue": {
+    "id": "M04",
+    "title": "院子里的答案",
+    "duration": 54.0,
+    "bpm": 68,
+    "key": "G major / Lydian colour",
+    "shots": "20-24",
+    "timeline": "约03:02-03:56（以锁画版为准）",
+    "role": "人物关系变暖，答案第一次具有现实形状；保持对白清晰。"
+  },
+  "sample_rate": 48000,
+  "render_gain": 2.100020897990551,
+  "event_count": 32,
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 10.5,
+      "note": 43,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 0.035,
+      "duration": 10.5,
+      "note": 50,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 0.07,
+      "duration": 10.5,
+      "note": 59,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 1.2,
+      "duration": 3.6,
+      "note": 67,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 5.0,
+      "duration": 3.6,
+      "note": 69,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 8.8,
+      "duration": 3.6,
+      "note": 71,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 9.0,
+      "duration": 10.5,
+      "note": 45,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 9.035,
+      "duration": 10.5,
+      "note": 52,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 9.07,
+      "duration": 10.5,
+      "note": 61,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 13.0,
+      "duration": 3.6,
+      "note": 69,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 15,
+      "duration": 6,
+      "note": 62,
+      "velocity": 0.18,
+      "instrument": "clarinet",
+      "pan": 0.28
+    },
+    {
+      "start": 18.0,
+      "duration": 10.5,
+      "note": 47,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 18.035,
+      "duration": 10.5,
+      "note": 54,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 18.07,
+      "duration": 10.5,
+      "note": 62,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 22,
+      "duration": 3.6,
+      "note": 71,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 24,
+      "duration": 7,
+      "note": 66,
+      "velocity": 0.18,
+      "instrument": "clarinet",
+      "pan": 0.28
+    },
+    {
+      "start": 27.0,
+      "duration": 10.5,
+      "note": 48,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 27,
+      "duration": 3.6,
+      "note": 74,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 27.035,
+      "duration": 10.5,
+      "note": 55,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 27.07,
+      "duration": 10.5,
+      "note": 62,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 32,
+      "duration": 7,
+      "note": 69,
+      "velocity": 0.18,
+      "instrument": "clarinet",
+      "pan": 0.28
+    },
+    {
+      "start": 33,
+      "duration": 3.6,
+      "note": 73,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 36.0,
+      "duration": 10.5,
+      "note": 45,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 36.035,
+      "duration": 10.5,
+      "note": 52,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 36.07,
+      "duration": 10.5,
+      "note": 59,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 39,
+      "duration": 3.6,
+      "note": 71,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 41,
+      "duration": 7,
+      "note": 67,
+      "velocity": 0.18,
+      "instrument": "clarinet",
+      "pan": 0.28
+    },
+    {
+      "start": 45.0,
+      "duration": 10.5,
+      "note": 43,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 45.035,
+      "duration": 10.5,
+      "note": 50,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 45.07,
+      "duration": 10.5,
+      "note": 59,
+      "velocity": 0.141,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 46,
+      "duration": 3.6,
+      "note": 69,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    },
+    {
+      "start": 50,
+      "duration": 3.6,
+      "note": 67,
+      "velocity": 0.235,
+      "instrument": "piano",
+      "pan": -0.24
+    }
+  ]
+}

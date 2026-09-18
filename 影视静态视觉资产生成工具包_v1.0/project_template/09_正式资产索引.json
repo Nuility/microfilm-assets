@@ -1,0 +1,45 @@
+{
+  "project": "{{PROJECT_NAME}}",
+  "revision": "v01",
+  "asset_stage": "static_visual_reference",
+  "spec": {
+    "aspect_ratio": "16:9",
+    "width": 0,
+    "height": 0,
+    "format": "png"
+  },
+  "characters": [
+    {
+      "id": "A01",
+      "name": "",
+      "visual_id": "",
+      "file": "assets/characters/"
+    }
+  ],
+  "props": [
+    {
+      "id": "P01",
+      "name": "",
+      "file": "assets/props/"
+    }
+  ],
+  "scene_masters": [
+    {
+      "id": "S01",
+      "name": "",
+      "file": "assets/scenes/"
+    }
+  ],
+  "official_keyframes": [
+    {
+      "id": "KF001",
+      "shot": "001",
+      "version": "v01",
+      "file": "assets/keyframes/"
+    }
+  ],
+  "qa": {
+    "continuity_report": "07_连续性审核表.md",
+    "contact_sheet_dir": "qa/contact_sheets"
+  }
+}

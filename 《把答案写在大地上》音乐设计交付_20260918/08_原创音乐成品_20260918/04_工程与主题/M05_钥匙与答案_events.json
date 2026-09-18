@@ -1,0 +1,489 @@
+﻿{
+  "cue": {
+    "id": "M05",
+    "title": "钥匙与答案",
+    "duration": 64.0,
+    "bpm": 64,
+    "key": "D minor → F major",
+    "shots": "25-30",
+    "timeline": "约03:52-04:56（以锁画版为准）",
+    "role": "从抉择、停顿走向全片情绪峰值；关键台词前后主动收束。"
+  },
+  "sample_rate": 48000,
+  "render_gain": 1.3423421987218986,
+  "event_count": 59,
+  "events": [
+    {
+      "start": 0.0,
+      "duration": 10.0,
+      "note": 50,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 0.035,
+      "duration": 10.0,
+      "note": 57,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 0.07,
+      "duration": 10.0,
+      "note": 65,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 1,
+      "duration": 4.0,
+      "note": 62,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 5,
+      "duration": 4.0,
+      "note": 64,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 9.0,
+      "duration": 10.0,
+      "note": 46,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 9,
+      "duration": 4.0,
+      "note": 65,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 9.035,
+      "duration": 10.0,
+      "note": 53,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 9.07,
+      "duration": 10.0,
+      "note": 62,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 12,
+      "duration": 8,
+      "note": 50,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.25
+    },
+    {
+      "start": 14,
+      "duration": 4.0,
+      "note": 64,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 18.0,
+      "duration": 10.0,
+      "note": 41,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 18.035,
+      "duration": 10.0,
+      "note": 48,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 18.07,
+      "duration": 10.0,
+      "note": 57,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 20,
+      "duration": 4.0,
+      "note": 57,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 22,
+      "duration": 8,
+      "note": 53,
+      "velocity": 0.22,
+      "instrument": "cello",
+      "pan": 0.25
+    },
+    {
+      "start": 25,
+      "duration": 4.0,
+      "note": 60,
+      "velocity": 0.24,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 27.0,
+      "duration": 10.0,
+      "note": 48,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 27.035,
+      "duration": 10.0,
+      "note": 55,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 27.07,
+      "duration": 10.0,
+      "note": 64,
+      "velocity": 0.139,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 42.0,
+      "duration": 7.2,
+      "note": 50,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 42,
+      "duration": 4.0,
+      "note": 62,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 42.035,
+      "duration": 7.2,
+      "note": 57,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 42.07,
+      "duration": 7.2,
+      "note": 65,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 43.0,
+      "duration": 0.45,
+      "note": 38,
+      "velocity": 0.14,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 43.938,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.146,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 44,
+      "duration": 8,
+      "note": 57,
+      "velocity": 0.29,
+      "instrument": "cello",
+      "pan": 0.25
+    },
+    {
+      "start": 44.875,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.152,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 45.812,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.158,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 46,
+      "duration": 4.0,
+      "note": 65,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 46.75,
+      "duration": 0.45,
+      "note": 38,
+      "velocity": 0.164,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 47.688,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.17,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 48.625,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.176,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 49.0,
+      "duration": 7.2,
+      "note": 53,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 49.035,
+      "duration": 7.2,
+      "note": 60,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 49.07,
+      "duration": 7.2,
+      "note": 69,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 49.562,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.182,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 50,
+      "duration": 4.0,
+      "note": 69,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 50.5,
+      "duration": 0.45,
+      "note": 38,
+      "velocity": 0.188,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 51.438,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.194,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 52,
+      "duration": 8,
+      "note": 60,
+      "velocity": 0.29,
+      "instrument": "cello",
+      "pan": 0.25
+    },
+    {
+      "start": 52.375,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.2,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 53.312,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.206,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 54,
+      "duration": 4.0,
+      "note": 72,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 54.25,
+      "duration": 0.45,
+      "note": 38,
+      "velocity": 0.212,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 55.0,
+      "duration": 7.2,
+      "note": 41,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 55.035,
+      "duration": 7.2,
+      "note": 48,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 55.07,
+      "duration": 7.2,
+      "note": 57,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 55.188,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.218,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 56.125,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.224,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 57,
+      "duration": 4.0,
+      "note": 69,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    },
+    {
+      "start": 57,
+      "duration": 6,
+      "note": 65,
+      "velocity": 0.29,
+      "instrument": "cello",
+      "pan": 0.25
+    },
+    {
+      "start": 57.062,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.23,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 58.0,
+      "duration": 0.45,
+      "note": 38,
+      "velocity": 0.236,
+      "instrument": "wood",
+      "pan": -0.3
+    },
+    {
+      "start": 58.938,
+      "duration": 0.45,
+      "note": 45,
+      "velocity": 0.242,
+      "instrument": "wood",
+      "pan": 0.3
+    },
+    {
+      "start": 59.0,
+      "duration": 7.2,
+      "note": 53,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": -0.64
+    },
+    {
+      "start": 59.035,
+      "duration": 7.2,
+      "note": 60,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.0
+    },
+    {
+      "start": 59.07,
+      "duration": 7.2,
+      "note": 69,
+      "velocity": 0.179,
+      "instrument": "strings",
+      "pan": 0.64
+    },
+    {
+      "start": 60,
+      "duration": 4.0,
+      "note": 65,
+      "velocity": 0.31,
+      "instrument": "piano",
+      "pan": -0.22
+    }
+  ]
+}
